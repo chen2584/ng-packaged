@@ -1,4 +1,5 @@
 # MyComponentLibrary
+Reference: [Link Here](https://medium.com/@nikolasleblanc/building-an-angular-4-component-library-with-the-angular-cli-and-ng-packagr-53b2ade0701e)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
 
